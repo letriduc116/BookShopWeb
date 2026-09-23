@@ -1,0 +1,11 @@
+G:\CodeC#\BookShopWeb\BanSach.Utility\bin\Debug\net8.0\BanSach.Utility.deps.json
+G:\CodeC#\BookShopWeb\BanSach.Utility\bin\Debug\net8.0\BanSach.Utility.dll
+G:\CodeC#\BookShopWeb\BanSach.Utility\bin\Debug\net8.0\BanSach.Utility.pdb
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\BanSach.Utility.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\BanSach.Utility.AssemblyInfoInputs.cache
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\BanSach.Utility.AssemblyInfo.cs
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\BanSach.Utility.csproj.CoreCompileInputs.cache
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\BanSach.Utility.dll
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\refint\BanSach.Utility.dll
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\BanSach.Utility.pdb
+G:\CodeC#\BookShopWeb\BanSach.Utility\obj\Debug\net8.0\ref\BanSach.Utility.dll

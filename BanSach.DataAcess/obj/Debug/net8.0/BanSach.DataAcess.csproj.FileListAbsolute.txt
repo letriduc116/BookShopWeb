@@ -1,0 +1,17 @@
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.csproj.AssemblyReference.cache
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.AssemblyInfoInputs.cache
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.AssemblyInfo.cs
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.csproj.CoreCompileInputs.cache
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\bin\Debug\net8.0\BanSach.DataAcess.deps.json
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\bin\Debug\net8.0\BanSach.DataAcess.runtimeconfig.json
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\bin\Debug\net8.0\BanSach.DataAcess.dll
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\bin\Debug\net8.0\BanSach.DataAcess.pdb
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\bin\Debug\net8.0\BanSach.Model.dll
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\bin\Debug\net8.0\BanSach.Model.pdb
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach..6D6F26AC.Up2Date
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.dll
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\refint\BanSach.DataAcess.dll
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.pdb
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\BanSach.DataAcess.genruntimeconfig.cache
+G:\CodeC#\BookShopWeb\BanSach.DataAcess\obj\Debug\net8.0\ref\BanSach.DataAcess.dll
